@@ -1,0 +1,4 @@
+version: 1
+git_protocol: https
+editor: nvim
+prompt: enabled

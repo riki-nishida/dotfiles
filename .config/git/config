@@ -1,0 +1,18 @@
+[user]
+	name = riki-nishida
+	email = riki.nishida.dev@gmail.com
+
+[core]
+	editor = nvim
+	pager = bat --style=numbers
+
+[color]
+	ui = true
+
+[init]
+	defaultBranch = main
+
+[push]
+    default = simple
+	autoSetupRemote = true
+
